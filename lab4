@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main()
+{
+        float b, h, a;
+        printf("\nArea of a triangle 
